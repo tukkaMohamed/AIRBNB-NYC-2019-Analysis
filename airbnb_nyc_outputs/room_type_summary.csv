@@ -1,0 +1,4 @@
+room_type,listing_count,median_price,mean_price,median_reviews,median_reviews_per_month,median_availability
+Entire home/apt,25409,160.0,211.79424613325986,5.0,0.66,42.0
+Private room,22326,70.0,89.78097285675894,5.0,0.77,45.0
+Shared room,1160,45.0,70.12758620689655,4.0,0.98,90.0

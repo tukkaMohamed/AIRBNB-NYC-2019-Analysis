@@ -1,0 +1,3 @@
+step,rows_before,rows_after,rows_removed,note
+Remove exact duplicate rows,48895,48895,0,Only rows identical across all columns were removed.
+Trim text whitespace,48895,48895,0,Trimmed leading/trailing whitespace in 6 text columns.

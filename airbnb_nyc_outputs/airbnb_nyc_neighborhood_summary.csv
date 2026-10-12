@@ -1,0 +1,222 @@
+neighbourhood_group,neighbourhood,listing_count,median_price,mean_price,median_reviews,median_availability
+Bronx,Allerton,42,66.5,87.5952380952381,27.0,163.0
+Bronx,Baychester,7,75.0,75.42857142857143,11.0,129.0
+Bronx,Belmont,24,52.5,77.125,4.5,263.5
+Bronx,Bronxdale,19,50.0,57.10526315789474,14.0,163.0
+Bronx,Castle Hill,9,39.0,63.0,0.0,177.0
+Bronx,City Island,18,97.5,173.0,24.0,136.5
+Bronx,Claremont Village,28,68.5,87.46428571428571,3.0,161.0
+Bronx,Clason Point,21,80.0,112.76190476190476,5.0,283.0
+Bronx,Co-op City,2,77.5,77.5,17.0,364.0
+Bronx,Concourse,50,81.0,86.18,14.0,173.0
+Bronx,Concourse Village,32,65.0,73.78125,4.5,173.5
+Bronx,East Morrisania,9,75.0,94.44444444444444,26.0,171.0
+Bronx,Eastchester,13,75.0,141.69230769230768,5.0,359.0
+Bronx,Edenwald,13,75.0,82.0,8.0,189.0
+Bronx,Fieldston,12,67.0,75.08333333333333,8.0,132.5
+Bronx,Fordham,63,60.0,69.44444444444444,3.0,84.0
+Bronx,Highbridge,27,70.0,71.11111111111111,32.0,134.0
+Bronx,Hunts Point,18,40.0,50.5,7.0,330.5
+Bronx,Kingsbridge,70,70.0,77.92857142857143,8.0,86.5
+Bronx,Longwood,62,75.0,91.91935483870968,8.0,111.0
+Bronx,Melrose,10,74.5,83.3,2.0,90.5
+Bronx,Morris Heights,17,51.0,76.94117647058823,9.0,241.0
+Bronx,Morris Park,15,60.0,69.33333333333333,6.0,76.0
+Bronx,Morrisania,18,73.5,83.44444444444444,0.0,90.0
+Bronx,Mott Haven,60,74.0,88.91666666666667,22.0,96.5
+Bronx,Mount Eden,6,45.5,58.5,7.5,104.0
+Bronx,Mount Hope,20,60.0,77.5,10.5,93.5
+Bronx,North Riverdale,10,65.0,79.9,1.0,174.5
+Bronx,Norwood,31,58.0,75.54838709677419,6.0,153.0
+Bronx,Olinville,4,53.0,64.0,5.0,189.0
+Bronx,Parkchester,39,55.0,69.07692307692308,10.0,81.0
+Bronx,Pelham Bay,17,89.0,105.0,8.0,252.0
+Bronx,Pelham Gardens,28,75.0,93.60714285714286,38.5,126.5
+Bronx,Port Morris,46,62.5,79.8913043478261,8.0,89.0
+Bronx,Riverdale,11,150.0,442.09090909090907,2.0,179.0
+Bronx,Schuylerville,13,65.0,69.23076923076923,22.0,147.0
+Bronx,Soundview,15,49.0,53.46666666666667,19.0,109.0
+Bronx,Spuyten Duyvil,4,99.5,154.75,8.0,322.0
+Bronx,Throgs Neck,24,74.5,91.04166666666667,12.0,136.5
+Bronx,Tremont,11,41.0,51.54545454545455,17.0,107.0
+Bronx,Unionport,7,90.0,137.14285714285714,1.0,247.0
+Bronx,University Heights,21,55.0,69.57142857142857,12.0,80.0
+Bronx,Van Nest,11,50.0,113.81818181818181,3.0,114.0
+Bronx,Wakefield,50,60.0,85.58,11.0,180.5
+Bronx,West Farms,2,122.0,122.0,3.5,244.5
+Bronx,Westchester Square,10,67.5,122.2,5.5,132.0
+Bronx,Williamsbridge,40,64.0,96.75,9.5,307.5
+Bronx,Woodlawn,11,68.0,60.09090909090909,7.0,51.0
+Brooklyn,Bath Beach,17,69.0,81.76470588235294,17.0,306.0
+Brooklyn,Bay Ridge,141,85.0,144.43262411347519,5.0,125.0
+Brooklyn,Bedford-Stuyvesant,3710,80.0,107.79433962264152,8.0,59.0
+Brooklyn,Bensonhurst,75,75.0,75.78666666666666,12.0,96.0
+Brooklyn,Bergen Beach,10,96.0,106.7,22.5,106.0
+Brooklyn,Boerum Hill,177,150.0,176.135593220339,6.0,6.0
+Brooklyn,Borough Park,136,53.5,63.06617647058823,5.0,166.0
+Brooklyn,Brighton Beach,75,85.0,131.93333333333334,5.0,169.0
+Brooklyn,Brooklyn Heights,154,150.0,209.06493506493507,4.0,4.5
+Brooklyn,Brownsville,61,62.0,76.45901639344262,11.0,66.0
+Brooklyn,Bushwick,2462,65.0,84.90373679935013,4.0,19.0
+Brooklyn,Canarsie,147,85.0,104.36734693877551,17.0,270.0
+Brooklyn,Carroll Gardens,233,150.0,175.91416309012877,6.0,4.0
+Brooklyn,Clinton Hill,572,120.0,181.89335664335664,5.0,12.0
+Brooklyn,Cobble Hill,99,156.0,211.92929292929293,8.0,6.0
+Brooklyn,Columbia St,42,132.5,162.95238095238096,7.5,13.0
+Brooklyn,Coney Island,17,100.0,123.70588235294117,2.0,150.0
+Brooklyn,Crown Heights,1564,85.0,112.480179028133,6.0,20.0
+Brooklyn,Cypress Hills,135,68.0,128.9037037037037,15.0,167.0
+Brooklyn,DUMBO,36,189.0,196.30555555555554,2.5,36.0
+Brooklyn,Downtown Brooklyn,83,135.0,150.34939759036143,2.0,0.0
+Brooklyn,Dyker Heights,12,82.5,93.41666666666667,37.0,138.0
+Brooklyn,East Flatbush,500,75.0,104.222,8.0,174.0
+Brooklyn,East New York,218,75.0,85.42660550458716,15.0,179.0
+Brooklyn,Flatbush,621,72.0,92.21256038647343,5.0,20.0
+Brooklyn,Flatlands,83,85.0,126.43373493975903,8.0,180.0
+Brooklyn,Fort Greene,489,130.0,151.37423312883436,5.0,15.0
+Brooklyn,Fort Hamilton,55,90.0,93.81818181818181,4.0,141.0
+Brooklyn,Gowanus,247,129.0,158.80161943319837,9.0,46.0
+Brooklyn,Gravesend,68,70.0,79.01470588235294,1.5,87.0
+Brooklyn,Greenpoint,1114,119.0,144.9524236983842,4.0,4.0
+Brooklyn,Kensington,175,70.0,92.88571428571429,4.0,21.0
+Brooklyn,Manhattan Beach,8,112.0,103.5,50.0,242.0
+Brooklyn,Midwood,109,75.0,80.33944954128441,3.0,49.0
+Brooklyn,Mill Basin,4,167.5,179.75,15.0,330.5
+Brooklyn,Navy Yard,14,150.0,151.64285714285714,6.0,0.0
+Brooklyn,Park Slope,506,145.0,176.31225296442688,7.0,12.5
+Brooklyn,Prospect Heights,357,124.0,173.37254901960785,8.0,5.0
+Brooklyn,Prospect-Lefferts Gardens,535,80.0,110.40186915887851,8.0,24.0
+Brooklyn,Red Hook,79,117.0,143.45569620253164,8.0,43.0
+Brooklyn,Sea Gate,7,125.0,487.85714285714283,1.0,0.0
+Brooklyn,Sheepshead Bay,164,65.0,105.77439024390245,5.0,125.0
+Brooklyn,South Slope,284,135.0,146.72535211267606,7.5,12.0
+Brooklyn,Sunset Park,390,80.0,113.04102564102564,7.0,35.0
+Brooklyn,Vinegar Hill,34,175.0,187.1764705882353,2.0,11.5
+Brooklyn,Williamsburg,3919,105.0,143.83949987241644,5.0,3.0
+Brooklyn,Windsor Terrace,157,123.0,138.9936305732484,7.0,16.0
+Manhattan,Battery Park City,70,195.0,367.5571428571429,1.0,0.0
+Manhattan,Chelsea,1113,199.0,249.73854447439354,3.0,32.0
+Manhattan,Chinatown,368,129.0,161.49728260869566,8.0,19.0
+Manhattan,Civic Center,52,169.0,191.94230769230768,2.5,7.5
+Manhattan,East Harlem,1117,99.0,133.1987466427932,9.0,36.0
+Manhattan,East Village,1853,150.0,186.0831084727469,5.0,3.0
+Manhattan,Financial District,744,200.0,225.49059139784947,2.0,253.0
+Manhattan,Flatiron District,80,225.0,341.925,4.0,19.0
+Manhattan,Gramercy,338,165.0,222.75443786982248,5.5,12.0
+Manhattan,Greenwich Village,392,197.5,263.40561224489795,4.0,7.0
+Manhattan,Harlem,2658,89.0,118.97404063205417,8.0,43.0
+Manhattan,Hell's Kitchen,1958,168.0,204.79417773237998,5.0,93.5
+Manhattan,Inwood,252,77.5,88.89682539682539,4.0,19.5
+Manhattan,Kips Bay,470,152.0,202.40851063829788,2.0,33.5
+Manhattan,Little Italy,121,150.0,222.06611570247935,4.0,35.0
+Manhattan,Lower East Side,911,139.0,186.31284302963775,6.0,20.0
+Manhattan,Marble Hill,12,76.5,89.16666666666667,2.5,26.0
+Manhattan,Midtown,1545,210.0,282.7190938511327,2.0,151.0
+Manhattan,Morningside Heights,346,98.5,114.78323699421965,2.0,0.0
+Manhattan,Murray Hill,484,190.0,221.41528925619835,1.0,158.5
+Manhattan,NoHo,78,250.0,295.71794871794873,3.5,44.5
+Manhattan,Nolita,253,179.0,230.13833992094862,7.0,3.0
+Manhattan,Roosevelt Island,77,80.0,113.25974025974025,2.0,0.0
+Manhattan,SoHo,358,199.0,287.1033519553073,5.0,42.0
+Manhattan,Stuyvesant Town,37,115.0,169.1081081081081,1.0,0.0
+Manhattan,Theater District,288,190.0,248.01388888888889,1.0,252.5
+Manhattan,Tribeca,177,295.0,490.638418079096,2.0,66.0
+Manhattan,Two Bridges,72,109.5,127.06944444444444,9.0,39.5
+Manhattan,Upper East Side,1798,149.0,188.94827586206895,4.0,30.5
+Manhattan,Upper West Side,1971,150.0,210.91831557584982,4.0,10.0
+Manhattan,Washington Heights,899,72.0,89.6106785317019,5.0,31.0
+Manhattan,West Village,768,200.0,267.6822916666667,5.0,6.0
+Queens,Arverne,77,125.0,171.7792207792208,15.0,159.0
+Queens,Astoria,900,85.0,117.18777777777778,5.0,37.5
+Queens,Bay Terrace,6,141.5,142.0,7.0,246.5
+Queens,Bayside,39,65.0,157.94871794871796,11.0,169.0
+Queens,Bayswater,17,70.0,87.47058823529412,4.0,189.0
+Queens,Belle Harbor,8,155.0,171.5,1.5,188.0
+Queens,Bellerose,14,85.0,99.35714285714286,2.0,311.5
+Queens,Breezy Point,3,195.0,213.33333333333334,1.0,82.0
+Queens,Briarwood,56,71.5,105.875,10.0,169.5
+Queens,Cambria Heights,26,60.0,81.73076923076923,2.0,83.0
+Queens,College Point,19,60.0,88.0,13.0,78.0
+Queens,Corona,64,40.0,59.171875,16.0,324.5
+Queens,Ditmars Steinway,309,79.0,95.02912621359224,6.0,43.0
+Queens,Douglaston,8,65.0,82.75,16.5,233.0
+Queens,East Elmhurst,185,60.0,81.18378378378378,25.0,150.0
+Queens,Edgemere,11,65.0,94.72727272727273,2.0,313.0
+Queens,Elmhurst,237,59.0,80.45991561181435,6.0,89.0
+Queens,Far Rockaway,29,63.0,165.86206896551724,5.0,124.0
+Queens,Flushing,426,65.0,93.51408450704226,19.0,135.5
+Queens,Forest Hills,144,80.0,121.625,9.0,86.5
+Queens,Fresh Meadows,32,72.0,99.5,19.0,68.0
+Queens,Glendale,54,84.0,90.79629629629629,10.0,118.5
+Queens,Hollis,14,77.5,88.64285714285714,5.5,89.0
+Queens,Holliswood,4,112.5,135.75,2.0,157.5
+Queens,Howard Beach,20,100.0,115.4,2.5,286.5
+Queens,Jackson Heights,186,68.5,80.89784946236558,8.5,126.5
+Queens,Jamaica,231,70.0,95.77056277056278,13.0,175.0
+Queens,Jamaica Estates,19,135.0,182.94736842105263,13.0,147.0
+Queens,Jamaica Hills,8,83.5,132.125,6.0,131.5
+Queens,Kew Gardens,32,67.5,88.375,4.0,290.5
+Queens,Kew Gardens Hills,26,92.5,112.3076923076923,4.5,89.5
+Queens,Laurelton,18,75.0,95.33333333333333,11.0,180.0
+Queens,Little Neck,5,50.0,75.2,1.0,88.0
+Queens,Long Island City,537,99.0,127.46554934823091,5.0,50.0
+Queens,Maspeth,110,65.0,83.64545454545454,7.5,185.5
+Queens,Middle Village,31,99.0,109.58064516129032,21.0,230.0
+Queens,Neponsit,3,274.0,274.6666666666667,7.0,315.0
+Queens,Ozone Park,62,75.0,85.2741935483871,5.0,129.5
+Queens,Queens Village,60,75.0,83.93333333333334,17.0,138.5
+Queens,Rego Park,106,67.0,83.87735849056604,11.0,96.0
+Queens,Richmond Hill,94,65.0,87.11702127659575,13.5,179.0
+Queens,Ridgewood,423,60.0,77.18439716312056,3.0,64.0
+Queens,Rockaway Beach,56,125.0,132.17857142857142,13.5,139.0
+Queens,Rosedale,59,65.0,76.69491525423729,12.0,164.0
+Queens,South Ozone Park,40,69.0,82.4,19.5,268.5
+Queens,Springfield Gardens,85,80.0,94.23529411764706,17.0,179.0
+Queens,St. Albans,76,61.5,100.82894736842105,18.0,260.5
+Queens,Sunnyside,363,75.0,84.86501377410468,5.0,76.0
+Queens,Whitestone,11,49.0,107.54545454545455,9.0,157.0
+Queens,Woodhaven,88,52.0,67.17045454545455,8.0,224.0
+Queens,Woodside,235,60.0,85.09787234042552,3.0,89.0
+Staten Island,Arden Heights,4,72.5,67.25,5.0,30.5
+Staten Island,Arrochar,21,65.0,115.0,11.0,306.0
+Staten Island,"Bay Terrace, Staten Island",2,102.5,102.5,1.5,0.0
+Staten Island,Bull's Head,6,45.0,47.333333333333336,14.5,134.0
+Staten Island,Castleton Corners,4,107.5,139.75,24.5,195.0
+Staten Island,Clifton,15,75.0,84.93333333333334,8.0,256.0
+Staten Island,Concord,26,34.5,58.19230769230769,24.5,320.0
+Staten Island,Dongan Hills,7,70.0,79.42857142857143,12.0,134.0
+Staten Island,Eltingville,3,70.0,141.66666666666666,83.0,258.0
+Staten Island,Emerson Hill,5,78.0,68.2,2.0,64.0
+Staten Island,Fort Wadsworth,1,800.0,800.0,0.0,365.0
+Staten Island,Graniteville,3,71.0,68.66666666666667,36.0,226.0
+Staten Island,Grant City,6,66.0,57.666666666666664,6.0,276.5
+Staten Island,Great Kills,10,83.0,100.6,9.0,109.0
+Staten Island,Grymes Hill,7,125.0,159.14285714285714,1.0,65.0
+Staten Island,Howland Hook,2,100.0,100.0,20.5,225.5
+Staten Island,Huguenot,3,100.0,118.33333333333333,20.0,229.0
+Staten Island,Lighthouse Hill,2,157.5,157.5,39.0,215.5
+Staten Island,Mariners Harbor,8,71.5,94.625,9.0,176.5
+Staten Island,Midland Beach,6,95.0,91.83333333333333,4.5,260.5
+Staten Island,New Brighton,5,55.0,101.8,8.0,115.0
+Staten Island,New Dorp,1,57.0,57.0,0.0,0.0
+Staten Island,New Dorp Beach,5,40.0,57.4,0.0,178.0
+Staten Island,New Springville,8,63.0,76.0,14.0,83.0
+Staten Island,Oakwood,5,65.0,81.2,1.0,179.0
+Staten Island,Port Richmond,9,50.0,90.11111111111111,13.0,283.0
+Staten Island,Prince's Bay,4,151.5,409.5,4.0,44.5
+Staten Island,Randall Manor,19,79.0,336.0,9.0,340.0
+Staten Island,Richmondtown,1,78.0,78.0,79.0,300.0
+Staten Island,Rosebank,7,100.0,111.85714285714286,19.0,179.0
+Staten Island,Rossville,1,75.0,75.0,21.0,59.0
+Staten Island,Shore Acres,7,100.0,152.71428571428572,0.0,89.0
+Staten Island,Silver Lake,2,70.0,70.0,118.5,162.0
+Staten Island,South Beach,8,67.5,89.25,8.0,151.5
+Staten Island,St. George,48,96.0,118.14583333333333,11.0,199.0
+Staten Island,Stapleton,27,75.0,98.96296296296296,21.0,252.0
+Staten Island,Todt Hill,4,98.5,169.0,4.0,44.0
+Staten Island,Tompkinsville,42,62.5,76.19047619047619,27.5,242.0
+Staten Island,Tottenville,7,100.0,144.85714285714286,1.0,299.0
+Staten Island,West Brighton,18,69.5,80.55555555555556,27.0,310.5
+Staten Island,Westerleigh,2,71.5,71.5,9.0,112.5
+Staten Island,Willowbrook,1,249.0,249.0,9.0,351.0
+Staten Island,Woodrow,1,700.0,700.0,0.0,0.0

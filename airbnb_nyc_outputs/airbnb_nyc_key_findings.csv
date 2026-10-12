@@ -1,0 +1,6 @@
+theme,finding,metric,caveat
+Supply concentration,"Manhattan has the largest number of listings (21,661).",Listing count,"Listing count describes supply in this dataset, not bookings or revenue."
+Room-type mix,"Entire home/apt is the most common room type (25,409 listings; 52.0% of all rows).",Listing count and share,"This reflects listed supply, not customer preference or occupancy."
+Price differences,Manhattan has the highest borough median listed price ($150); Bronx has the lowest ($65).,Median listed price among positive-price listings,"Price differences may reflect room type, neighborhood, property features, and other unobserved factors."
+Neighborhood concentration,"Williamsburg (Brooklyn) has the most listings among borough-neighborhood groups (3,920).",Listing count,High listing volume does not automatically mean high profitability or performance.
+Price and review association,The Spearman correlation between listed price and total reviews is -0.05.,Spearman correlation,Association is not causation; review counts are affected by listing age and other factors.

@@ -1,0 +1,17 @@
+column,meaning,dtype,non_null,missing,unique_values
+id,Unique identifier for a listing,int64,48895,0,48895
+name,Listing title,object,48879,16,47905
+host_id,Identifier for the host,int64,48895,0,37457
+host_name,Host display name,object,48874,21,11452
+neighbourhood_group,NYC borough/group,object,48895,0,5
+neighbourhood,Neighborhood within the borough,object,48895,0,221
+latitude,Listing latitude,float64,48895,0,19048
+longitude,Listing longitude,float64,48895,0,14718
+room_type,Type of accommodation offered,object,48895,0,3
+price,Listed nightly price (currency/unit as represented in source),int64,48895,0,674
+minimum_nights,Minimum number of nights required per booking,int64,48895,0,109
+number_of_reviews,Total number of reviews recorded,int64,48895,0,394
+last_review,Date of the most recent review,object,38843,10052,1764
+reviews_per_month,"Average reviews per month, where available",float64,38843,10052,937
+calculated_host_listings_count,Number of listings attributed to the host,int64,48895,0,47
+availability_365,Number of days available in the next 365 days,int64,48895,0,366
