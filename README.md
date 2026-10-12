@@ -42,3 +42,5 @@ Analyzes review activity, host listing counts, and neighborhoods receiving the h
 
 ## 👩‍💻 Author
 Data Analysis & Power BI Portfolio Project
+**Internship Project:** Completed as part of the Data Analyst Trainee Internship at Voltix-EG (September 2026).
+This project demonstrates practical experience in data cleaning, exploratory data analysis (EDA), and interactive dashboard development using Python and Power BI.
